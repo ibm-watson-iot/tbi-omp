@@ -29,7 +29,9 @@ Search for the 'TBI_TRIRIGA_Package' under 'Import packages' in 'Object Migraito
 On completion of import,  package will show as 'Imported' under 'status'.
 
 ## Object migration package: ##
-https://github.com/ibm-watson-iot/tbi-omp/releases/download/v2.3.1/TBI_OMP_2.3.1.zip
+
+- [Download latest version here](https://github.com/ibm-watson-iot/tbi-omp/releases/latest)
+- [Other download options here.](https://github.com/ibm-watson-iot/tbi-omp/releases)
 
 ## Verification of Object migration package import: ##      
 ### OSLC API - Get Building details ###
